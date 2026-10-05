@@ -1,0 +1,72 @@
+ <tr>
+      <td>
+        Men's
+      </td>
+      <td>2</td>
+      <td>Rafael Nadal</td>
+      <td>9,460</td>
+    </tr>
+    <tr>
+      <td>
+        Men's
+      </td>
+      <td>3</td>
+      <td>Marin Cilic</td>
+      <td>4,870</td>
+    </tr>
+    <tr>
+      <td>
+        Men's
+      </td>
+      <td>4</td>
+      <td>Grigor Dimitrov</td>
+      <td>4,635</td>
+    </tr>
+    <tr>
+      <td>
+        Men's
+      </td>
+      <td>5</td>
+      <td>Alexander Zverev</td>
+      <td>4,540</td>
+    </tr>
+    <tr>
+      <td>
+        Womens's
+      </td>
+      <td>1</td>
+      <td>Serena Williams</td>
+      <td>7,010</td>
+    </tr>
+    <tr>
+      <td>
+        Womens's
+      </td>
+      <td>2</td>
+      <td>Angelique Kerber</td>
+      <td>6,925</td>
+    </tr>
+    <tr>
+      <td>
+        Womens's
+      </td>
+      <td>3</td>
+      <td>Karolina Pliskova</td>
+      <td>6,020</td>
+    </tr>
+    <tr>
+      <td>
+        Womens's
+      </td>
+      <td>4</td>
+      <td>Dominika Cibulkova</td>
+      <td>5,065</td>
+    </tr>
+    <tr>
+      <td>
+        Womens's
+      </td>
+      <td>5</td>
+      <td>Simona Halep</td>
+      <td>5,021</td>
+    </tr>

@@ -1,0 +1,6 @@
+body{
+    background-image: url(img/tennis_court.jpg); 
+    background-size: cover; 
+    background-attachment: fixed;
+    color:white;
+}
